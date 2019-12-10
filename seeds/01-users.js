@@ -8,7 +8,8 @@ exports.seed = function(knex) {
         { username: 'diandra', website: 'www.diandrassite.com' },
         { username: 'amy' },
         { username: 'bill' },
-        { username: 'Carlos' }
+        { username: 'Carlos' },
+        { username: 'John' }
        
       ]);
     });
